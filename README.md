@@ -1,6 +1,6 @@
 # Hi, this is dcufo.
 - That is my online alias. My real name is Davis Chan.
-- Building websites and web apps have been my favourite pasttime. Check out my web development blog: [dcufo.com] https://dcufo.com.
+- Building websites and web apps have been my favourite pasttime. Check out my web development blog: https://dcufo.com.
 - Living in the now. Meditate every day.
 
 <!---
