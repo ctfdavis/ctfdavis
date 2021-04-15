@@ -1,5 +1,5 @@
 # Hi, this is dcufo.
-- Building websites and web apps have been my favourite pasttime. 
+- Building websites and web apps has become one of my favourite pastimes. 
 - Check out my web development blog: https://dcufo.com.
 - Living in the now. Code every day.
 
