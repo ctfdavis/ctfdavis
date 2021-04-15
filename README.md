@@ -1,7 +1,7 @@
 # Hi, this is dcufo.
-- That is my online alias. My real name is Davis Chan.
-- Building websites and web apps have been my favourite pasttime. Check out my web development blog: https://dcufo.com.
-- Living in the now. ~~Meditate~~ Code every day.
+- Building websites and web apps have been my favourite pasttime. 
+- Check out my web development blog: https://dcufo.com.
+- Living in the now. Code every day.
 
 <!---
 ctfdavis/ctfdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
