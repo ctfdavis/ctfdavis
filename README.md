@@ -1,7 +1,7 @@
-# Hi, this is dcufo.
-- Building websites and web apps has become one of my favourite pastimes. 
+Hi, I am Davis - a web developer.
+- My current focus is on mastering the MEAN stack. 
 - Check out my web development blog: https://dcufo.com.
-- Living in the now. Code every day.
+- Stay safe, and code every day.
 
 <!---
 ctfdavis/ctfdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
