@@ -1,7 +1,6 @@
-Hi, I am Davis - a web developer.
-- My current focus is on mastering the MEAN stack. 
+Hi there, welcome to my github page.
+- Lately I am doing work with the MEAN stack.
 - Check out my web development blog: https://dcufo.com.
-- Stay safe, and code every day.
 
 <!---
 ctfdavis/ctfdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
