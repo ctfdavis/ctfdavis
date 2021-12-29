@@ -1,6 +1,5 @@
-Hi there, welcome to my github page.
-- Lately I am working with the MEAN stack and Golang.
-- Check out my web development blog: https://ngnodes.com
+Hi, I hope you have a nice day.
+- My web development blog (coming soon): https:/davischan.pro
 
 <!---
 ctfdavis/ctfdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
