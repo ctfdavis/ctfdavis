@@ -1,5 +1,5 @@
 Hi, I hope you have a nice day.
-- Visit my web development blog: https:/davischan.pro
+- Visit my web development blog: https:/davischan.dev
 
 <!---
 ctfdavis/ctfdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
