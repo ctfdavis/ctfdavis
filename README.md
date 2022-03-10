@@ -1,5 +1,5 @@
-Hi, I hope you have a nice day.
 - Visit my web development blog: https://davischan.dev
+- Free, online, concise Angular eBook (in progress): https://www.ng4eb.com
 
 <!---
 ctfdavis/ctfdavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
