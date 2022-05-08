@@ -1,4 +1,4 @@
-- Visit my web development blog: https://davischan.dev
+- https://davischan.io
 - Free, online, concise Angular eBook: https://www.ng4eb.com
 
 <!---
